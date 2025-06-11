@@ -80,7 +80,7 @@
     "openai": "^4.86.1",
     "postcss": "^8.4.47",
     "qss": "^3.0.0",
-    "react": "19.0.0",
+    "react": "19.1.0",
     "react-dom": "19.0.0",
     "react-dropzone": "^14.2.9",
     "react-hook-form": "^7.53.1",
